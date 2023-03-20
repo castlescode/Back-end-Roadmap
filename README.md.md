@@ -140,8 +140,6 @@
 
 ## 20-Laravel Projects
 
-Mustafa Faries, [3/15/2023 22:49]
-
 ### Mora Soft:
 
 - Mora Soft(انشاء برنامج فواتير):
